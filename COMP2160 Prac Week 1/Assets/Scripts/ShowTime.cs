@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class ShowTime : MonoBehaviour
 {
@@ -11,7 +9,7 @@ public class ShowTime : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("time = " + Time.time);
-        Debug.Log("deltaTime = " + Time.deltaTime);
+        //Debug.Log("time = " + Time.time);
+        //Debug.Log("deltaTime = " + Time.deltaTime);
     }
 }
