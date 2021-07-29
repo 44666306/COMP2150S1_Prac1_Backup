@@ -103,13 +103,6 @@ public class Mole : MonoBehaviour
 
             }
         }
-        
-        else
-        {
-
-        }
-
-
     
     }
 
